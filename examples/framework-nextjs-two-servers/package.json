@@ -1,0 +1,12 @@
+{
+  "name": "@keystone-6/monorepo-example-framework-nextjs-two-servers",
+  "version": null,
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"cd keystone-server && pnpm dev\" \"cd nextjs-frontend && pnpm dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.3.0"
+  }
+}

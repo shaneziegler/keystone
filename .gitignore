@@ -1,0 +1,15 @@
+.keystone/
+.next/
+dist/
+node_modules/
+*.db
+.env
+
+# ts-gql
+__generated__
+
+# system
+.DS_Store
+*.vscode
+
+.pnpm-store

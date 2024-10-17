@@ -1,0 +1,1 @@
+export { generateAdminUI } from './generateAdminUI'
