@@ -24,6 +24,7 @@
 ---
 
 <br>
+
 <p>Keystone helps you build faster and scale further than any other CMS or App Framework. Describe your schema, and get a powerful GraphQL API & beautiful Management UI for your content and data.</p>
 <p>No boilerplate or bootstrapping – just elegant APIs to help you ship the code that matters without sacrificing the flexibility or power of a bespoke back-end.
 </p>
